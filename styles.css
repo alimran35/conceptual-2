@@ -1,0 +1,180 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+ }
+ .ritu{
+    height: 50px;
+    width:  50px;
+ }
+ .nav-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(49, 48, 48);
+    padding: 10px;
+    
+ }
+ .menus{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    font-size: 17px;
+    font-style: italic;
+    
+ }
+ .banner-container{
+    height: 100vh;
+    background-image: url(" https://cdn.photoroom.com/v1/assets-cached.jpg?path=backgrounds_v3/black/Photoroom_black_background_extremely_fine_texture_only_black_co_c100e1e4-63a9-4adc-9794-202888321104.jpg ");
+    background-blend-mode: overlay;
+    background-position: center;
+    background-repeat: no-repeat;
+     background-size: cover;
+     text-align: center;
+     display: flex;
+     align-items: center;
+ }
+ .digital{
+   color: orangered;
+ }
+ .title{
+   font-size: 30px;
+   font-weight: bold;
+   color: white;
+ }
+ .description{
+   color: white;
+   padding: 10px;
+    margin: auto;
+   width: 70%;
+
+ }
+ .btn{
+    
+   padding:  8px 10px;
+   border: none;
+ }
+ .btn-color{
+   padding: 8px 10px;
+   border: none;
+   background-color: orangered;
+   color: white;
+ }
+.imran{
+   height: 5px;
+}
+.service-container{
+   height: 100vh;
+   background-image: url("  ");
+   background-color: rgb(22, 22, 22);
+   background-blend-mode: overlay;
+   background-position: center;
+   background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    display: flex;
+    align-items: center;
+     padding: 20px;
+}
+.icon{
+   width: 50px;
+   margin-bottom: 20px;
+}
+
+
+.box{
+   text-align: center;
+   width: 60px  ;
+  height: 55px;
+  padding: 15px;
+  background-color: rgb(226, 222, 222);
+  color: rgb(250, 245, 245);
+  border-radius: 5px;
+  box-shadow: 6px 6px 9px black;
+   
+}
+.laltu{
+   width: 50%;
+}
+.first-2-box{
+   display: flex;
+   gap: 3px;
+   margin-top: 5px;
+}
+.junu{
+   color: black;
+}
+.author-img{
+   width: 60px;
+   height: 60px;
+border-radius: 30px;
+}
+ .author-container{
+   display: flex;
+   gap: 20px;
+   align-items: center;
+ }
+.profile{
+   display: flex;
+   align-items: center;
+   gap: 5px;
+   border-right: 1px solid red;
+
+}
+ .btn-imran{
+   color:  white;
+   background-color: white;
+    border: none;
+    color: black;
+ }
+ .phone-call{
+   display: flex;
+   align-items: center;
+ }
+ .appoinment-container{
+   display: flex;justify-content: space-around;
+   width: 70%;
+   margin: auto;
+   padding: 20px;
+   background-color: red;
+   border-radius: 10px;
+   margin-top: -25px;
+   align-items: center;
+ }
+ .blog-title{
+   color: black;
+   text-align: center;
+   margin-top: 50px; 
+ }
+ .primary{
+   color: red;
+ }
+ .card{
+   width:  150px;
+   height: 320px;
+   /* background-color: rgb(117, 117, 121); */
+   box-shadow: 5px 5px 8px black;
+   border-radius: 5px;
+    
+ }
+ .blog-img{
+   width: 100%;
+   border-radius: 5px;
+ }
+ .card-title{
+   margin-top: 10px;
+   margin-bottom: 10px;
+    padding: 5px;
+ }
+  .cards{
+   display: flex;
+   justify-content: center;
+   gap: 5px;
+  }
+  .small{
+   padding: 5px;
+  }
+  .blog-container{
+   width: 85%;
+   margin: auto;
+   background-color: rgb(68, 68, 68);
+  }
